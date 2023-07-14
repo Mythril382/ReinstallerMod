@@ -1,0 +1,9 @@
+displayName: Reinstaller
+name: reinstaller
+author: Mythril382
+description: "A mod to reinstall all mods with just one button.\nWill re-enable mods."
+version: 1.0.0
+subtitle: v1.0.0
+minGameVersion: 145.1
+repo: Mythril382/ReinstallerMod
+hidden: true
